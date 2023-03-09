@@ -1,0 +1,9 @@
+{
+  "editor.tabSize": 2,
+  "showShortcuts": true,
+  "files.compactDirectories": false,
+  "files.openFileMode": "doubleClick",
+  "keymap": "pc-ij",
+  "theme": "sync-with-os",
+  "autoSave": false
+}
